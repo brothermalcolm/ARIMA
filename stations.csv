@@ -1,0 +1,26 @@
+ID,ID_VIRTUAL,STATION_NAME,LATITUDE,LONGITUDE,ELEVATION,CHE_BASIN_ID,CHE_BASIN_NAME
+301,401,Super Station - 01 (NE @ HDB Punggol),1.3993,103.9091,54,1,Singapore
+500,402,Super Station - 02 (SW @ SERIS),1.3005,103.771,63,1,Singapore
+104,403,Super Station - 03 (N @ Republic Poly),1.4439,103.7843,45,1,Singapore
+304,404,Super Station - 04 (S @ Quayside Condo),1.2491,103.8414,36,1,Singapore
+305,405,Super Station - 05 (E @ AMAT),1.3527,103.9653,45,1,Singapore
+306,406,Super Station - 06 (NW @ Lim Chu Kang,1.4458,103.7108,60,1,Singapore
+307,407,Super Station - 07 (SE @ HDB Marine Parade),1.3025,103.9123,60,1,Singapore
+116,408,Super Station - 08 (W @ CTO),1.3551,103.6925,57,1,Singapore
+309,409,Super Station - 09 (C @ Bosch),1.3477,103.8413,52,1,Singapore
+117,410,Super Station - 10 (SW @ REC),1.2708,103.62,100,100,Singapore
+106,411,Basic Station - 11 (@ Lonza Biologics),1.2986,103.6402,26,1,Singapore
+102,412,Basic Station - 12 (@ Ngee Ann Poly),1.3334,103.7727,50,1,Singapore
+108,413,Basic Station - 13 (@ German School),1.3453,103.7917,55,1,Singapore
+105,414,Basic Station - 14 (@ HDB Wellington),1.4531,103.8208,60,1,Singapore
+315,415,Basic Station - 15 (@ HDB Bukit Batok),1.362,103.7444,53,1,Singapore
+316,416,Basic Station - 16 (@ HDB Segar Rd),1.3898,103.773,100,1,Singapore
+113,417,Basic Station - 17 (@ YSTCM),1.3026,103.7729,100,1,Singapore
+112,418,Basic Station - 18 (@ NUS High School),1.3065,103.7693,100,1,Singapore
+319,419,Basic Station - 19 (@ HDB Hougang),1.3521,103.8895,60,1,Singapore
+320,420,Basic Station - 20 (@ HDB King George),1.3056,103.8564,100,100,Singapore
+321,421,Basic Station - 21 (@ HDB Redhill),1.2885,103.8158,100,1,Singapore
+322,422,Basic Station - 22 (@ Ocean Financial Centre),1.2833,103.8536,100,100,Singapore
+103,423,Basic Station - 23 (@ Singapore Poly),1.3011,103.7667,100,100,Singapore
+111,424,Basic Station - 24 (@Zero Energy House),1.3149,103.9154,29,1,Singapore
+325,425,Basic Station - 25 (@Orchid Golf Course Yishun),1.4021,103.9431,100,100,Singapore
